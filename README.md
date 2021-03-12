@@ -18,7 +18,7 @@
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#how-to-run">How to Run</a></li>
+        <li><a href="#how-to-run">How to Run?</a></li>
       </ul>
     </li>
   </ol>
@@ -55,4 +55,4 @@ Mobile Application built using react-native for learning purpose, It having line
    ```
 6. Now `QR Code` will appear on the terminal like this <br/> <br/> <img src="https://github.com/Vaibhav-afk/Tesla/blob/master/example.PNG" alt="example-image" /> <br/><br/>
 7. Scan the QR Code with **Expo Go**.
-8. You are Done, you will see Application in **Expo Go**.
+8. You are Done, now you'll see Application in **Expo Go**.
